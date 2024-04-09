@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+  }
+  .resumen {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .resumen-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .resumen-body {
+    padding: 20px;
+  }
+  .resumen-section {
+    margin-bottom: 20px;
+  }
+  .navbar {
+    background-color: hsl(51, 26%, 36%);
+  }
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  footer {
+    background-color:  hsl(51, 26%, 36%);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
